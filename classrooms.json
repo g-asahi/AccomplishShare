@@ -1,0 +1,98 @@
+{
+    "123": {
+        "name": "Test Classroom",
+        "members": {
+            "Bob": "student",
+            "John": "teacher",
+            "George": "student"
+        },
+        "posts": {
+            "Hello Students, Hello World!": {
+                "date": [
+                    1,
+                    1,
+                    2020
+                ],
+                "author": "John",
+                "comments": {
+                    "Hello": {
+                        "author": "Bob",
+                        "date": [
+                            5,
+                            1,
+                            2020
+                        ]
+                    },
+                    "Hi": {
+                        "author": "George",
+                        "date": [
+                            8,
+                            1,
+                            2020
+                        ]
+                    }
+                }
+            },
+            "Hello, my name is Bob.": {
+                "date": [
+                    1,
+                    1,
+                    2020
+                ],
+                "author": "Bob",
+                "comments": {
+                    "Hello bob, I am John": {
+                        "author": "John",
+                        "date": [
+                            5,
+                            1,
+                            2020
+                        ]
+                    }
+                }
+            },
+            "Please join this meeting. https://meet.google.com/vxw-bisg-agq": {
+                "date": [
+                    1,
+                    1,
+                    2020
+                ],
+                "author": "Bob",
+                "comments": {
+                }
+            }
+        },
+        "calendar": {
+            "assignments": {
+                "Science Investigation": {
+                    "date": [
+                        10,
+                        1,
+                        2020
+                    ],
+                    "due": [
+                        15,
+                        1,
+                        2020
+                    ],
+                    "attempts": {
+                        "Bob": {
+                            "score": 0.5,
+                            "filelink": "google.com"
+                        }
+                    }
+                }
+            },
+            "meetings": {
+                "Class Chat": {
+                    "date": [
+                        20,
+                        5,
+                        2020
+                    ],
+                    "videocalllink": ""
+                }
+            }
+        }
+    }
+}

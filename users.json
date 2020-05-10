@@ -1,0 +1,20 @@
+{
+    "George": {
+        "password": "123",
+        "classrooms": [
+            "123"
+        ]
+    },
+    "Bob": {
+        "password": "123",
+        "classrooms": [
+            "123"
+        ]
+    },
+    "John": {
+        "password": "123",
+        "classrooms": [
+            "123"
+        ]
+    }
+}
